@@ -16,6 +16,10 @@
 - ✅ Lightweight GUI, no external libraries required  
 - ✅ No background services or telemetry
 
+
+![image](https://github.com/user-attachments/assets/d9ce4a56-c866-4f04-8f6a-a351fd7183bd)
+
+
 ---
 
 ## 💻 Usage Options
